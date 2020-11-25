@@ -9,6 +9,7 @@ background-size: 1500px;
 
 
 
+
 /*background-size: contain;
 background-repeat: no-repeat; */
 }
@@ -20,11 +21,13 @@ body{
     margin-left: 490px;
     margin-top: 129px;
 
+
 }
 
 .paths{
     height: 40px;
     width: 40px;
+
 
 }
 
@@ -32,10 +35,7 @@ body{
     height: 40px;
     width: 40px;
     background-color: pink;
-
-
-   /* background-image: url("https://media.istockphoto.com/photos/iranian-tile-decor-picture-id155383649");
-    background-size: contain; */
+ 
 
 
 }
@@ -45,7 +45,10 @@ body{
     width: 40px;
     /*background-image: url("Screen\ Shot\ 2020-11-25\ at\ 13.00.18.png"); */
     background-size: cover ;
-/*background-color: #f9b4ed;  */
+
+   /* background-color: #F7D5E7;*/
+
+
 
 }
 
@@ -53,7 +56,8 @@ body{
     height: 40px;
     width: 45px;
     background-position: ;
-    background-image: url("images/image.png");
+
+    background-image: url("images/image.png"); 
     background-size: cover;
 
 
@@ -72,17 +76,18 @@ body{
 
 }
 
-footer {
+/*footer {
     margin-top: 50px;
-    font-size: 14px;
-    color: pink; 
-    padding-left: 126px;
+    font-size: 15px;
+    color: #F7D5E7; 
+    padding-left: 346px;
     padding-right: 110px;
-    font-family: 'Corben', cursive;
-    /* background-color: pink; */
+    padding-bottom: 30px;
 
-   /* background-image: url("Screen\ Shot\ 2020-11-24\ at\ 08.56.27.png"); */
-}
+
+    font-family: 'Corben', cursive;
+    background-size: cover ;
+} */
 
 
 
